@@ -1,0 +1,7 @@
+.tarot-card {
+  transition: transform 0.2s;
+}
+
+.tarot-card:hover {
+  transform: scale(1.02);
+}

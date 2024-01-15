@@ -1,0 +1,470 @@
+[
+  {
+    "file": "00-TheFool.jpg",
+    "suit": "Arcana",
+    "value": 0,
+    "name": "The Fool"
+  },
+  {
+    "file": "01-TheMagician.jpg",
+    "suit": "Arcana",
+    "value": 1,
+    "name": "The Magician"
+  },
+  {
+    "file": "02-TheHighPriestess.jpg",
+    "suit": "Arcana",
+    "value": 2,
+    "name": "The High Priestess"
+  },
+  {
+    "file": "03-TheEmpress.jpg",
+    "suit": "Arcana",
+    "value": 3,
+    "name": "The Empress"
+  },
+  {
+    "file": "04-TheEmperor.jpg",
+    "suit": "Arcana",
+    "value": 4,
+    "name": "The Emperor"
+  },
+  {
+    "file": "05-TheHierophant.jpg",
+    "suit": "Arcana",
+    "value": 5,
+    "name": "The Hierophant"
+  },
+  {
+    "file": "06-TheLovers.jpg",
+    "suit": "Arcana",
+    "value": 6,
+    "name": "The Lovers"
+  },
+  {
+    "file": "07-TheChariot.jpg",
+    "suit": "Arcana",
+    "value": 7,
+    "name": "The Chariot"
+  },
+  {
+    "file": "08-Strength.jpg",
+    "suit": "Arcana",
+    "value": 8,
+    "name": "Strength"
+  },
+  {
+    "file": "09-TheHermit.jpg",
+    "suit": "Arcana",
+    "value": 9,
+    "name": "The Hermit"
+  },
+  {
+    "file": "10-WheelOfFortune.jpg",
+    "suit": "Arcana",
+    "value": 10,
+    "name": "Wheel Of Fortune"
+  },
+  {
+    "file": "11-Justice.jpg",
+    "suit": "Arcana",
+    "value": 11,
+    "name": "Justice"
+  },
+  {
+    "file": "12-TheHangedMan.jpg",
+    "suit": "Arcana",
+    "value": 12,
+    "name": "The Hanged Man"
+  },
+  {
+    "file": "13-Death.jpg",
+    "suit": "Arcana",
+    "value": 13,
+    "name": "Death"
+  },
+  {
+    "file": "14-Temperance.jpg",
+    "suit": "Arcana",
+    "value": 14,
+    "name": "Temperance"
+  },
+  {
+    "file": "15-TheDevil.jpg",
+    "suit": "Arcana",
+    "value": 15,
+    "name": "The Devil"
+  },
+  {
+    "file": "16-TheTower.jpg",
+    "suit": "Arcana",
+    "value": 16,
+    "name": "The Tower"
+  },
+  {
+    "file": "17-TheStar.jpg",
+    "suit": "Arcana",
+    "value": 17,
+    "name": "The Star"
+  },
+  {
+    "file": "18-TheMoon.jpg",
+    "suit": "Arcana",
+    "value": 18,
+    "name": "The Moon"
+  },
+  {
+    "file": "19-TheSun.jpg",
+    "suit": "Arcana",
+    "value": 19,
+    "name": "The Sun"
+  },
+  {
+    "file": "20-Judgement.jpg",
+    "suit": "Arcana",
+    "value": 20,
+    "name": "Judgement"
+  },
+  {
+    "file": "21-TheWorld.jpg",
+    "suit": "Arcana",
+    "value": 21,
+    "name": "The World"
+  },
+  {
+    "file": "Cups01.jpg",
+    "suit": "Cups",
+    "value": 1,
+    "name": "Ace of Cups"
+  },
+  {
+    "file": "Cups02.jpg",
+    "suit": "Cups",
+    "value": 2,
+    "name": "Two of Cups"
+  },
+  {
+    "file": "Cups03.jpg",
+    "suit": "Cups",
+    "value": 3,
+    "name": "Three of Cups"
+  },
+  {
+    "file": "Cups04.jpg",
+    "suit": "Cups",
+    "value": 4,
+    "name": "Four of Cups"
+  },
+  {
+    "file": "Cups05.jpg",
+    "suit": "Cups",
+    "value": 5,
+    "name": "Five of Cups"
+  },
+  {
+    "file": "Cups06.jpg",
+    "suit": "Cups",
+    "value": 6,
+    "name": "Six of Cups"
+  },
+  {
+    "file": "Cups07.jpg",
+    "suit": "Cups",
+    "value": 7,
+    "name": "Seven of Cups"
+  },
+  {
+    "file": "Cups08.jpg",
+    "suit": "Cups",
+    "value": 8,
+    "name": "Eight of Cups"
+  },
+  {
+    "file": "Cups09.jpg",
+    "suit": "Cups",
+    "value": 9,
+    "name": "Nine of Cups"
+  },
+  {
+    "file": "Cups10.jpg",
+    "suit": "Cups",
+    "value": 10,
+    "name": "Ten of Cups"
+  },
+  {
+    "file": "Cups11.jpg",
+    "suit": "Cups",
+    "value": 11,
+    "name": "Page of Cups"
+  },
+  {
+    "file": "Cups12.jpg",
+    "suit": "Cups",
+    "value": 12,
+    "name": "Knight of Cups"
+  },
+  {
+    "file": "Cups13.jpg",
+    "suit": "Cups",
+    "value": 13,
+    "name": "Queen of Cups"
+  },
+  {
+    "file": "Cups14.jpg",
+    "suit": "Cups",
+    "value": 14,
+    "name": "King of Cups"
+  },
+  {
+    "file": "Pentacles01.jpg",
+    "suit": "Pentacles",
+    "value": 1,
+    "name": "Ace of Pentacles"
+  },
+  {
+    "file": "Pentacles02.jpg",
+    "suit": "Pentacles",
+    "value": 2,
+    "name": "Two of Pentacles"
+  },
+  {
+    "file": "Pentacles03.jpg",
+    "suit": "Pentacles",
+    "value": 3,
+    "name": "Three of Pentacles"
+  },
+  {
+    "file": "Pentacles04.jpg",
+    "suit": "Pentacles",
+    "value": 4,
+    "name": "Four of Pentacles"
+  },
+  {
+    "file": "Pentacles05.jpg",
+    "suit": "Pentacles",
+    "value": 5,
+    "name": "Five of Pentacles"
+  },
+  {
+    "file": "Pentacles06.jpg",
+    "suit": "Pentacles",
+    "value": 6,
+    "name": "Six of Pentacles"
+  },
+  {
+    "file": "Pentacles07.jpg",
+    "suit": "Pentacles",
+    "value": 7,
+    "name": "Seven of Pentacles"
+  },
+  {
+    "file": "Pentacles08.jpg",
+    "suit": "Pentacles",
+    "value": 8,
+    "name": "Eight of Pentacles"
+  },
+  {
+    "file": "Pentacles09.jpg",
+    "suit": "Pentacles",
+    "value": 9,
+    "name": "Nine of Pentacles"
+  },
+  {
+    "file": "Pentacles10.jpg",
+    "suit": "Pentacles",
+    "value": 10,
+    "name": "Ten of Pentacles"
+  },
+  {
+    "file": "Pentacles11.jpg",
+    "suit": "Pentacles",
+    "value": 11,
+    "name": "Page of Pentacles"
+  },
+  {
+    "file": "Pentacles12.jpg",
+    "suit": "Pentacles",
+    "value": 12,
+    "name": "Knight of Pentacles"
+  },
+  {
+    "file": "Pentacles13.jpg",
+    "suit": "Pentacles",
+    "value": 13,
+    "name": "Queen of Pentacles"
+  },
+  {
+    "file": "Pentacles14.jpg",
+    "suit": "Pentacles",
+    "value": 14,
+    "name": "King of Pentacles"
+  },
+  {
+    "file": "Swords01.jpg",
+    "suit": "Swords",
+    "value": 1,
+    "name": "Ace of Swords"
+  },
+  {
+    "file": "Swords02.jpg",
+    "suit": "Swords",
+    "value": 2,
+    "name": "Two of Swords"
+  },
+  {
+    "file": "Swords03.jpg",
+    "suit": "Swords",
+    "value": 3,
+    "name": "Three of Swords"
+  },
+  {
+    "file": "Swords04.jpg",
+    "suit": "Swords",
+    "value": 4,
+    "name": "Four of Swords"
+  },
+  {
+    "file": "Swords05.jpg",
+    "suit": "Swords",
+    "value": 5,
+    "name": "Five of Swords"
+  },
+  {
+    "file": "Swords06.jpg",
+    "suit": "Swords",
+    "value": 6,
+    "name": "Six of Swords"
+  },
+  {
+    "file": "Swords07.jpg",
+    "suit": "Swords",
+    "value": 7,
+    "name": "Seven of Swords"
+  },
+  {
+    "file": "Swords08.jpg",
+    "suit": "Swords",
+    "value": 8,
+    "name": "Eight of Swords"
+  },
+  {
+    "file": "Swords09.jpg",
+    "suit": "Swords",
+    "value": 9,
+    "name": "Nine of Swords"
+  },
+  {
+    "file": "Swords10.jpg",
+    "suit": "Swords",
+    "value": 10,
+    "name": "Ten of Swords"
+  },
+  {
+    "file": "Swords11.jpg",
+    "suit": "Swords",
+    "value": 11,
+    "name": "Page of Swords"
+  },
+  {
+    "file": "Swords12.jpg",
+    "suit": "Swords",
+    "value": 12,
+    "name": "Knight of Swords"
+  },
+  {
+    "file": "Swords13.jpg",
+    "suit": "Swords",
+    "value": 13,
+    "name": "Queen of Swords"
+  },
+  {
+    "file": "Swords14.jpg",
+    "suit": "Swords",
+    "value": 14,
+    "name": "King of Swords"
+  },
+  {
+    "file": "Wands01.jpg",
+    "suit": "Wands",
+    "value": 1,
+    "name": "Ace of Wands"
+  },
+  {
+    "file": "Wands02.jpg",
+    "suit": "Wands",
+    "value": 2,
+    "name": "Two of Wands"
+  },
+  {
+    "file": "Wands03.jpg",
+    "suit": "Wands",
+    "value": 3,
+    "name": "Three of Wands"
+  },
+  {
+    "file": "Wands04.jpg",
+    "suit": "Wands",
+    "value": 4,
+    "name": "Four of Wands"
+  },
+  {
+    "file": "Wands05.jpg",
+    "suit": "Wands",
+    "value": 5,
+    "name": "Five of Wands"
+  },
+  {
+    "file": "Wands06.jpg",
+    "suit": "Wands",
+    "value": 6,
+    "name": "Six of Wands"
+  },
+  {
+    "file": "Wands07.jpg",
+    "suit": "Wands",
+    "value": 7,
+    "name": "Seven of Wands"
+  },
+  {
+    "file": "Wands08.jpg",
+    "suit": "Wands",
+    "value": 8,
+    "name": "Eight of Wands"
+  },
+  {
+    "file": "Wands09.jpg",
+    "suit": "Wands",
+    "value": 9,
+    "name": "Nine of Wands"
+  },
+  {
+    "file": "Wands10.jpg",
+    "suit": "Wands",
+    "value": 10,
+    "name": "Ten of Wands"
+  },
+  {
+    "file": "Wands11.jpg",
+    "suit": "Wands",
+    "value": 11,
+    "name": "Page of Wands"
+  },
+  {
+    "file": "Wands12.jpg",
+    "suit": "Wands",
+    "value": 12,
+    "name": "Knight of Wands"
+  },
+  {
+    "file": "Wands13.jpg",
+    "suit": "Wands",
+    "value": 13,
+    "name": "Queen of Wands"
+  },
+  {
+    "file": "Wands14.jpg",
+    "suit": "Wands",
+    "value": 14,
+    "name": "King of Wands"
+  }
+]
